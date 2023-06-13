@@ -12,7 +12,24 @@ detail see blog: [csdn blog](https://github.com/stevengj/nlopt)
 
 > cmake 1.10
 
-## install
+## nlopt install
+
+select 2.7.0 version because of cmake version in ros1
+
+```
+sudo apt-get install ros-melodic-nlopt
+```
+
+```
+git clone git@github.com:stevengj/nlopt.git
+mkdir build
+cd build
+cmake ..
+make
+sudo make install
+```
+
+## calibr package install
 
 ```
 git clone git@github.com:aibo-Ryan/calibration_camera_lidar.git
