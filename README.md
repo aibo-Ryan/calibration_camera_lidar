@@ -2,7 +2,7 @@
 
 calibration between camera and 2d lidar
 
-detail see blog: [csdn blog](https://github.com/stevengj/nlopt)
+detail see blog: [csdn blog](https://blog.csdn.net/ryanji/article/details/131195782?spm=1001.2014.3001.5501)
 
 ## setup
 
